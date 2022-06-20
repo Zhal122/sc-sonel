@@ -4368,6 +4368,7 @@ fs.watchFile(file, () => {
 	require(file)
 })
 break
+
 case prefix+'simi':
  var text = `${q}`
 var cimcimi = await fetchJson(`https://api.simsimi.net/v2/?text=${text}&lc=id`)
