@@ -639,7 +639,7 @@ case 'kapankah':
 hisoka.sendMessage(m.chat, { text: `Pertanyaan : ${q}\nJawaban : *${kapankah}*` }, { quoted: m })
 					break
 case 'wangy':
-              if (!q) return m.reply (`Contoh : .wangy Riy`)
+              if (!q) return m.reply (`Contoh : .wangy ZhaaLL`)
               qq = q.toUpperCase()
               awikwok = `${qq} ${qq} ${qq} ❤️ ❤️ ❤️ WANGY WANGY WANGY WANGY HU HA HU HA HU HA, aaaah baunya rambut ${qq} wangyy aku mau nyiumin aroma wangynya ${qq} AAAAAAAAH ~ Rambutnya.... aaah rambutnya juga pengen aku elus-elus ~~ AAAAAH ${qq} keluar pertama kali di anime juga manis ❤️ ❤️ ❤️ banget AAAAAAAAH ${qq} AAAAA LUCCUUUUUUUUUUUUUUU............ ${qq} AAAAAAAAAAAAAAAAAAAAGH ❤️ ❤️ ❤️apa ? ${qq} itu gak nyata ? Cuma HALU katamu ? nggak, ngak ngak ngak ngak NGAAAAAAAAK GUA GAK PERCAYA ITU DIA NYATA NGAAAAAAAAAAAAAAAAAK PEDULI BANGSAAAAAT !! GUA GAK PEDULI SAMA KENYATAAN POKOKNYA GAK PEDULI. ❤️ ❤️ ❤️ ${qq} gw ... ${qq} di laptop ngeliatin gw, ${qq} .. kamu percaya sama aku ? aaaaaaaaaaah syukur ${q} aku gak mau merelakan ${qq} aaaaaah ❤️ ❤️ ❤️ YEAAAAAAAAAAAH GUA MASIH PUNYA ${qq} SENDIRI PUN NGGAK SAMA AAAAAAAAAAAAAAH`
              m.reply(awikwok)
@@ -1250,7 +1250,7 @@ break
 		    await sleep(1500)
 		    let btn = [{
                                  urlButton: {
-                                    displayText: 'YT CREATOR📽️',
+                                    displayText: 'CREATOR ZHAL📽️',
                                     url: ''
                                 }
                             }, {
@@ -3333,7 +3333,7 @@ let btn = [{
 └───────⭓`
                 let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR📽️',
+                                    displayText: 'CREATOR ZHAL📽️',
                                     url: ''
                                 }
                             }, {
@@ -3793,7 +3793,7 @@ case 'funmenu': {
 └───────⭓`
 let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR📽️',
+                                    displayText: 'CREATOR ZHAL📽️',
                                     url: ''
                                 }
                             }, {
@@ -3865,7 +3865,7 @@ case 'primbonmenu': {
 └───────⭓`
 let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR📽️',
+                                    displayText: 'CREATOR ZHAL📽️',
                                     url: ''
                                 }
                             }, {
@@ -3923,7 +3923,7 @@ case 'convertmenu': {
 └───────⭓`
 let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR📽️',
+                                    displayText: 'CREATOR ZHAL📽️',
                                     url: ''
                                 }
                             }, {
@@ -4255,10 +4255,10 @@ case 'thanksto': {
 │
 │⭔ Allah Swt
 │⭔ Ortu Saya
-│⭔ Dika Ardnt (Pemilik Base)
-│⭔ GuaAbuzz
+│⭔ Dika Ardnt
+│⭔ ZhaaLL
 │⭔ Fandy
-│⭔ Daffa
+│⭔ TOHKA (WAIFU ZHAL)
 │⭔ Penyedia Module
 │⭔ Penyedia Rest Api
 │
