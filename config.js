@@ -16,7 +16,7 @@ global.APIs = {
 // Apikey Website Api
 global.APIKeys = {
 	'https://zenzapis.xyz': 'sonelstore',
-        'https://api.xteam.xyz': 'MIMINETBOT
+        'https://api.xteam.xyz': 'MIMINETBOT',
 }
 
 // Other
