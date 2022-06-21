@@ -11,12 +11,14 @@ const chalk = require('chalk')
 global.APIs = {
 	zenz: 'https://zenzapis.xyz',
         xteam: 'https://api.xteam.xyz',
+        lolhuman: 'https://api.lolhuman.xyz',
 }
 
 // Apikey Website Api
 global.APIKeys = {
 	'https://zenzapis.xyz': 'sonelstore',
         'https://api.xteam.xyz': 'MIMINETBOT',
+        'https://api.lolhuman.xyz': '7b389b5e346e7b9181783e80',
 }
 
 // Other
